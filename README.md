@@ -435,3 +435,14 @@ GooglePlay地址：https://play.google.com/store/apps/details?id=kaichunlin.tran
 
 DEMO演示：
 ![github](https://github.com/vinaygaba/CreditCardView/raw/master/images/Feature%20Image.png "github")
+
+
+16.LoadingIcons
+------
+
+项目介绍：信用卡样式
+
+项目地址：https://github.com/81813780/AVLoadingIndicatorView
+
+DEMO演示：
+![github](https://github.com/81813780/AVLoadingIndicatorView/blob/master/Demo2.gif "github")
