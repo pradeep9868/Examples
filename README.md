@@ -446,3 +446,13 @@ DEMO演示：
 
 DEMO演示：
 ![github](https://github.com/81813780/AVLoadingIndicatorView/blob/master/Demo2.gif "github")
+
+
+17.AndroidMosaicLayout
+
+AndroidMosaicLayout is android layout to display group of views in more that 90 different patterns.
+
+URL : https://github.com/adhamenaya/AndroidMosaicLayout
+
+
+![github](https://cloud.githubusercontent.com/assets/1500868/11513643/fb4e754e-987c-11e5-8f18-025d934c69b4.png "github")
